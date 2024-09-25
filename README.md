@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairpaternez&layout=compact&langs_count=6&theme=dracula"/>
 </table>
 
-### Technologies and tools:
+### Technologies and tools 🖥
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
