@@ -18,7 +18,7 @@
   <img align="center" alt="Cris-BOOTSTRAP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div><br>
 
-## 📫 Entram em conctato:
+## 📫 Entram em contato:
 
 <div> 
   <a href="https://www.instagram.com/jair_paternez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
