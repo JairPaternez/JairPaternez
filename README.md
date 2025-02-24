@@ -1,6 +1,6 @@
 # Olá! Eu me chamo Jair!
 
-# 📊 Estatísticas do GitHub:
+# 📊 Estatísticas do GitHub
 <table>
   <a href="https://github.com/jairpaternez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairpaternez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
   <img align="center" alt="Cris-BOOTSTRAP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div><br>
 
-# 💻 Linguagens de Programção:
+# 💻 Linguagens de Programção
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@
   <img align="center" alt="Cris-PYTHON" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
-## 📫 Entram em contato:
+## 📫 Entram em contato
 
 <div> 
   <a href="https://www.instagram.com/jair_paternez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
