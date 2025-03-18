@@ -1,4 +1,4 @@
-# Olá! Eu me chamo Jair!
+# Olá! Eu me chamo Jair.
 
 # 📊 Estatísticas do GitHub
 <table>
