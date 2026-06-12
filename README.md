@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 Trabalho como programador Front-End.<br>- 📚  Atualmente estou aprendendo desenvolvimento de inteligência artificial.<br>- ⚡ No meu tempo livre eu estou sempre aprendendo novas habilidades e criando projetos.</p>
+<p align="left">- 🔭 Trabalho como programador.<br>- 📚  Atualmente estou aprendendo desenvolvimento de inteligência artificial.<br>- ⚡ No meu tempo livre eu estou sempre aprendendo novas habilidades e criando projetos.</p>
 
 ###
 
