@@ -5,6 +5,20 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/jair-paternez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/jair_paternez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JairPaternez.JairPaternez&"  />
 </div>
 
@@ -18,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 Trabalho como programador.<br>- 📚  Atualmente estou aprendendo desenvolvimento de inteligência artificial.<br>- ⚡ No meu tempo livre eu estou sempre aprendendo novas habilidades e criando projetos.</p>
+<p align="left">- 🔭 Trabalho como programador Front-End.<br>- 📚  Atualmente estou aprendendo desenvolvimento de inteligência artificial.<br>- ⚡ No meu tempo livre eu estou sempre aprendendo novas habilidades e criando projetos.</p>
 
 ###
 
@@ -44,26 +58,12 @@
 
 ###
 
-<h3 align="center">🔥   Minhas estatísticas :</h3>
+<h3 align="left">🔥   Minhas estatísticas :</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=JairPaternez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jair-paternez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/jair_paternez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
